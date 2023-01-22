@@ -1,6 +1,6 @@
 # 3013-Algorithms-Davis
 
-</style padding="0" 
+</style padding="0" />
 About me:
 </br>Tairique Davis
 </br>Email: tadavis0910@my.msutexas.edu
