@@ -2,8 +2,10 @@
 
 About me:
 </br>Tairique Davis
-</br>TEmail: tadavis0910@my.msutexas.edu
-</br>TImages:
-![IMG_20221104_192311_378]<img src="https://user-images.githubusercontent.com/108636715/213933685-0716066e-9792-4cc9-ba5e-1d0ae421d366.jpg" width="200" height="200"/> #slack pfp
+</br>Email: tadavis0910@my.msutexas.edu
+</br>Images:
+<img src="https://user-images.githubusercontent.com/108636715/213933685-0716066e-9792-4cc9-ba5e-1d0ae421d366.jpg" width="200" height="200" align="left"/> 
+</br>#slack pfp
 
-![IMG_20230109_095939_184]<img src="https://user-images.githubusercontent.com/108636715/213933760-37e4bf56-2711-4af4-a1f2-d92d6c760ab4.jpg" width="200" height="200" /> #my photo
+<img src="https://user-images.githubusercontent.com/108636715/213933760-37e4bf56-2711-4af4-a1f2-d92d6c760ab4.jpg" width="200" height="200" align="left"/> 
+</br>#my photo
