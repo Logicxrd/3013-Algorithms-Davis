@@ -2,7 +2,7 @@
 ### Tairique Davis
 ### Description:
 
-This program implements a list data structure that links together nodes of integers.
+This program implements a circular array based queue data structure that adds, removes and displays items in a queue.
 
 ### Files
 
