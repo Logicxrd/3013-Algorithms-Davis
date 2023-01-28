@@ -91,7 +91,7 @@ using namespace std;
  * 
  * Usage: 
  * 
- *      -Any sceneario where a First-i-First-Out principle is appropriate 
+ *      -Any sceneario where a First-in-First-Out principle is appropriate 
  *         for example storing appointment schedules, online call queues, 
  *          delivery services with a wait based system...etc.
  */
