@@ -1,0 +1,6 @@
+Found within 9 comparisons
+Found in...: 0.0001647 seconds.
+Record found!
+Found after 230 comparisons...
+Found in...: 0.0006001 seconds.
+Record was found.... 0.0004354 seconds faster using Avl Tree!
