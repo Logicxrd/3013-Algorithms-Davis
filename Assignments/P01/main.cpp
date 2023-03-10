@@ -1,3 +1,22 @@
+# /***********************************************************************
+#  *
+#  *  Author:           Tairique Davis
+#  *  Title:            P01: Datasebase Indexes
+#  *  Course:           3013 Algorithms
+#  *  Semester:         Spring 2023
+#  *
+#  *  Description:
+#           	Reads in data from a json file into AVL trees and Linked lists
+#           	in order to compare time complexities. 10 deliminated fields
+#	    	from the json file can be searched by modifying the program's
+#	    	pre-defined searches or un-commenting the manual search code
+#	    	allowing for more flexibility. Main goal of the program is to
+#	    	demonstrate in real time the difference between  AVL trees'
+#           	superior Olog(n) time complexity and a Linked lists O(n).
+#  *        
+#  *
+#  ***********************************************************************/
+
 #include <iostream>
 #include <vector>
 #include <fstream>
