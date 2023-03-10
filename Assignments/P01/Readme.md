@@ -3,14 +3,21 @@
 ### Description:
 
 This program reads in data from a json file that was randomly generated data using Mackaroo, into AVL trees and linked lists in order to compare search complexity times. Main purpose of this project is to demonstrate the superiority of constant time Olog(n).
-There were many ways to implement this program, however my approach is as follows:
-1)Out of the 16 fields in the json file, the following 10 were chosen: id, first name, last name, email, address, state, city, car, car model, car color
-2)Imported/Modified classes for Avl Tree and Linked list respectively - each class had to be able to insert, search and delete data of types string and int
-3)Created a counter variable 'comparisons' and included into search methods of both classes in order to count how many nodes/trees were visited before the correct value was found
-4)Created a 'Tree Manager class' that inherits from Avl Tree class, included a method 'set tree' to create the 10 trees corresponding to the decided fields
-5)Imported nlohmann's library in order to streamline opening,reading and parsing json data 
-6)For flexibility, program has two methods of searching data either via a manual search or modifying hard coded pre-defined searches
-7)Imported timer class to record duration of each search, added a new method 'compare' that accepts 2 doubles, finds the smallest value and returns the difference between the two doubles.
+There were many ways to implement this program, however my approach is as follows:<br>
+<br>
+1.Out of the 16 fields in the json file, the following 10 were chosen: id, first name, last name, email, address, state, city, car, car model, car color<br>
+<br>
+2. Imported/Modified classes for Avl Tree and Linked list respectively - each class had to be able to insert, search and delete data of types string and int<br>
+<br>
+3. Created a counter variable 'comparisons' and included into search methods of both classes in order to count how many nodes/trees were visited before the correct value was found<br>
+<br>
+4. Created a 'Tree Manager class' that inherits from Avl Tree class, included a method 'set tree' to create the 10 trees corresponding to the decided fields<br>
+<br>
+5. Imported nlohmann's library in order to streamline opening,reading and parsing json data <br>
+<br>
+6. For flexibility, program has two methods of searching data either via a manual search or modifying hard coded pre-defined searches<br>
+<br>
+7. Imported timer class to record duration of each search, added a new method 'compare' that accepts 2 doubles, finds the smallest value and returns the difference between the two doubles.
 this was done to more precisely display the difference in search duration between the two data structures
 
 ### Files
