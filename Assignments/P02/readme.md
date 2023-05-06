@@ -7,13 +7,14 @@ The purpose of this program is to mimick an auto complete word search.
 This is achieved by reading a character input and comparing it with words stored in a file. The words from the file are stored in a singly linked list
 as a result searches are performed linearly.
 
-### Necessary Files
-| main.cpp       |
-| mygetch.hpp    |
-| termcolor.hpp  |
-| timer.hpp      |
-| List.hpp       |
-| dictionary.txt |
+### |Necessary Files |
+    |----------------|
+    | main.cpp       |
+    | mygetch.hpp    |
+    | termcolor.hpp  |
+    | timer.hpp      |
+    | List.hpp       |
+    | dictionary.txt |
 
 ###Instructions:
   - Download all files and add to IDE of your choosing. Code should work fine, there are no additional libraries required. 
