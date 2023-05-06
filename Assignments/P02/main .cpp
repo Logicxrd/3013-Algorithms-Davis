@@ -154,7 +154,7 @@ int main() {
           for (int j = 0; j < matches[i].size(); j++) {
             // if we are printing the substring turn it red
             if (j >= loc && j <= loc + word.size() - 1) {
-   he           cout << MAGENTA;
+          cout << MAGENTA;
             } else {
               cout << GREEN;
             }
