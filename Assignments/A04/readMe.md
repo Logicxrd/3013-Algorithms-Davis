@@ -7,7 +7,7 @@ The purpose of this assignment is to present on Boruvka's Algorithm, a greedy al
 
 |   #   | File     | Description                      |
 | :---: | -------- | -------------------------------- |
-|   1   | TDAVIS_3013_Presentation | Powerpoint slides for presentation |
+|   1   | <a href= "https://github.com/Logicxrd/3013-Algorithms-Davis/blob/main/Assignments/A04/TDAVIS_3013_Presentation.pptx"><TDAVIS_3013_Presentation></a> | Powerpoint slides for presentation |
 |   2   | Boruvka's Algorithm | Pdf with summary of presentation |
 
 
