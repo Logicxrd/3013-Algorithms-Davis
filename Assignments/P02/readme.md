@@ -1,5 +1,5 @@
-## Tairique Davis
-### Program 2 - Auto Complete in Linear Time
+## P02 - Auto Complete in Linear Time
+### Tairique Davis
 ### Class : 3013 - Advanced Algorithms
 
 ### Description:
