@@ -9,7 +9,7 @@ as a result searches are performed linearly.
 
 ### Necessary Files 
     |  Files         |
-    |----------------|
+    |:----------------:|
     | main.cpp       |
     | mygetch.hpp    |
     | termcolor.hpp  |
