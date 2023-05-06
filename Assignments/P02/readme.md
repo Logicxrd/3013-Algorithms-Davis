@@ -1,6 +1,6 @@
 ## P02 - Auto Complete in Linear Time
 ### Tairique Davis
-### Class : 3013 - Advanced Algorithms
+### 3013 - Advanced Algorithms
 
 ### Description:
 The purpose of this program is to mimick an auto complete word search. 
