@@ -6,7 +6,7 @@ The purpose of this program is to mimick an auto complete word search.
 This is achieved by reading a character input and comparing it with words stored in a file. The words from the file are stored in a singly linked list
 as a result searches are performed linearly.
 
-### Necessary Files 
+### Files 
   |   #   | File                                 | Description                       |
 | :---: | ------------------------------------ | --------------------------------- |
 |   1   | <a href ="https://github.com/Logicxrd/3013-Algorithms-Davis/blob/main/Assignments/P02/main%20.cpp">main.cpp</a>              | Main driver of program            |
@@ -15,6 +15,7 @@ as a result searches are performed linearly.
 |   4   | [termcolor.hpp](termcolor.hpp)       | change color of text in terminal |
 |   5   | [timer.hpp](timer.hpp)               | timer header file              |
 |   6   | [dictionary.txt](dictionary.txt)     | words...lots of words           |
+| 7    | <a href= "https://github.com/Logicxrd/3013-Algorithms-Davis/blob/main/Assignments/P02/banner.txt">banner.txt</a>| My banner|
 
 
 ### Instructions:
