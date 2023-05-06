@@ -1,25 +1,3 @@
-/**************************************************************************************
-*
-*  Author:           Tairique Davis
-*  Email:            tadavis0910@my.msutexas.edu
-*  Label:            P02
-*  Title:            AutoComplete in Linear Time
-*  Course:           CMPS-3013
-*  Semester:         Spring 2023
-*
-*  Description:
-*        Singly linked list implementation to store strings from a file
-*
-*  Usage:
-*        used in main to search the stored words
-*
-*  Files:            main.cpp
-                     List.hpp
-                     timer.hpp
-                     mygetch.hpp
-                     termcolor.hpp
-                     dictionary.txt
-***************************************************************************************/
 #pragma once
 
 #include <iostream>
