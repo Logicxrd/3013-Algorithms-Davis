@@ -10,7 +10,7 @@ as a result searches are performed linearly.
 ### Necessary Files 
   |   #   | File                                 | Description                       |
 | :---: | ------------------------------------ | --------------------------------- |
-|   1   | [main .cpp](main .cpp)                 | Main driver of program            |
+|   1   | [main.cpp](main .cpp)                 | Main driver of program            |
 |   2   | [List.hpp](List.hpp)                 | Linked-List implementation      |
 |   3   | [mygetch.hpp](mygetch.hpp)           | getch header file              |
 |   4   | [termcolor.hpp](termcolor.hpp)       | change color of text in terminal |
