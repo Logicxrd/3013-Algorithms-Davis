@@ -14,7 +14,7 @@ as a result searches are performed linearly.
 |   3   | [mygetch.hpp](mygetch.hpp)           | getch header file              |
 |   4   | [termcolor.hpp](termcolor.hpp)       | change color of text in terminal |
 |   5   | [timer.hpp](timer.hpp)               | timer header file              |
-|   6   | [dictionary.txt](dictionary.txt)     | words...lots of words           |
+|   6   | [dictionary.txt](dictionary.txt)     | txt containing all words to be stored           |
 | 7    | <a href= "https://github.com/Logicxrd/3013-Algorithms-Davis/blob/main/Assignments/P02/banner.txt">banner.txt</a>| My banner|
 
 
