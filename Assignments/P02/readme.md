@@ -8,14 +8,12 @@ This is achieved by reading a character input and comparing it with words stored
 as a result searches are performed linearly.
 
 ### Necessary Files 
-    |  Files         |
-    |:----------------:|
-    | main.cpp       |
-    | mygetch.hpp    |
-    | termcolor.hpp  |
-    | timer.hpp      |
-    | List.hpp       |
-    | dictionary.txt |
+    - main.cpp       
+    - mygetch.hpp    
+    - termcolor.hpp  
+    - timer.hpp      
+    - List.hpp       
+    - dictionary.txt 
 
 ### Instructions:
   - Download all files and add to IDE of your choosing. Code should work fine, there are no additional libraries required. 
