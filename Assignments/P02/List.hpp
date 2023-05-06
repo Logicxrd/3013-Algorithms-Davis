@@ -1,11 +1,11 @@
 /**************************************************************************************
 *
-*  Author:           Angel Badillo Hernandez  / @It-Is-Legend27
-*  Email:            badilloa022402@gmail.com / abadillo0224@my.msutexas.edu
+*  Author:           Tairique Davis
+*  Email:            tadavis0910@my.msutexas.edu
 *  Label:            P02
 *  Title:            Processing in Linear Time
-*  Course:           CMPS-3013-201
-*  Semester:         Spring 2022
+*  Course:           CMPS-3013
+*  Semester:         Spring 2023
 *
 *  Description:
 *        Simulation of performing operations on a singely linked list.
