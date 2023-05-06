@@ -16,6 +16,7 @@ as a result searches are performed linearly.
 |   5   | [timer.hpp](timer.hpp)               | timer header file              |
 |   6   | [dictionary.txt](dictionary.txt)     | txt containing all words to be stored           |
 | 7    | <a href= "https://github.com/Logicxrd/3013-Algorithms-Davis/blob/main/Assignments/P02/banner.txt">banner.txt</a>| My banner|
+| 8   | <a href= "https://github.com/Logicxrd/3013-Algorithms-Davis/blob/main/Assignments/P02/output.pdf">output.pdf</a>            | Pdf containing 4 screenshots of terminal output|
 
 
 ### Instructions:
