@@ -7,7 +7,8 @@ The purpose of this program is to mimick an auto complete word search.
 This is achieved by reading a character input and comparing it with words stored in a file. The words from the file are stored in a singly linked list
 as a result searches are performed linearly.
 
-### |Necessary Files |
+### Necessary Files 
+    |  Files         |
     |----------------|
     | main.cpp       |
     | mygetch.hpp    |
@@ -16,7 +17,7 @@ as a result searches are performed linearly.
     | List.hpp       |
     | dictionary.txt |
 
-###Instructions:
+### Instructions:
   - Download all files and add to IDE of your choosing. Code should work fine, there are no additional libraries required. 
   - Allow sufficient time for searches to complete as the data strcuture used in this program is a linked list results can take several seconds
 
