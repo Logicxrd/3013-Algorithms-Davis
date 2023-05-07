@@ -12,8 +12,8 @@ Repository containing all assignments and programs done in CMPS 3013 Advanced Al
 ## Contact Information
 
 #### <img style="height:auto; border-radius:50%;" alt="" width="260" height="260" src="https://user-images.githubusercontent.com/108636715/213933685-0716066e-9792-4cc9-ba5e-1d0ae421d366.jpg">
-#### Tairique Davis
-#### School Email: tadavis0910@my.msutexas.edu
+#### Name: Tairique Davis
+#### University Email: tadavis0910@my.msutexas.edu
 #### Business email: tairiquedavis.business@gmail.com
 
 
