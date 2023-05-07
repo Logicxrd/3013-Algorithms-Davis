@@ -4,8 +4,8 @@
 
 This software includes a class that generates a circular array-based queue. There is an array that 
  stores numbers, and as integers are added to the queue, they are added to the rear of the queue.
- Items may only be removed from the front of the queue. This program was  designed to demonstrate  
- correct structure and commenting of future programs written in this CMPS 3013 repository.
+ Items may only be removed from the front of the queue. This program was  designed to demonstrate correct structure and commenting of future programs written in this CMPS 3013 repository.
+
  
  ### Files
 
