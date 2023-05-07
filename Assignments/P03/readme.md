@@ -9,11 +9,11 @@ file. The words from the file are stored in a trie tree as a result searches are
   |   #   | File                                 | Description                       |
 | :---: | ------------------------------------ | --------------------------------- |
 |   1   | <a href ="https://github.com/Logicxrd/3013-Algorithms-Davis/blob/main/Assignments/P03/main.cpp">main.cpp</a>              | Main driver of program            |
-|   2   | [List.hpp](List.hpp)                 | Linked-List implementation      |
+|   2   | <a href ="https://github.com/Logicxrd/3013-Algorithms-Davis/blob/main/Assignments/P03/animal_names.txt">animal_names.txt</a>       | txt file containing animal names     |
 |   3   | [mygetch.hpp](mygetch.hpp)           | getch header file              |
 |   4   | [termcolor.hpp](termcolor.hpp)       | change color of text in terminal |
 |   5   | [timer.hpp](timer.hpp)               | timer header file              |
-|   6   | [dictionary.txt](dictionary.txt)     | txt containing all words to be stored           |
+|   6   | [dictionary.txt](dictionary.txt)     | txt file containing all words to be stored           |
 | 7    | <a href= "https://github.com/Logicxrd/3013-Algorithms-Davis/blob/main/Assignments/P03/banner.txt">banner.txt</a>| My banner|
 | 8   | <a href= "https://github.com/Logicxrd/3013-Algorithms-Davis/blob/main/Assignments/P03/output.pdf">output.pdf</a>            | Pdf containing 4 screenshots of terminal output|
 
