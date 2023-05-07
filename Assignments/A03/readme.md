@@ -23,10 +23,10 @@ This software includes a class that generates a circular array-based queue. Ther
 
 ### Example Command
 
-   CircularArrayQue C1(5);
-    C1.Push(1);     // pushing items onto queue
-    cout << C1 << endl; // display queue
-    C1.Pop();    // remove item from queue
-    cout << C1 << endl; //display updated queue
+  - CircularArrayQue C1(5);
+  -  C1.Push(1);     // pushing items onto queue
+  -  cout << C1 << endl; // display queue
+  -  C1.Pop();    // remove item from queue
+  - cout << C1 << endl; //display updated queue
 
 P.S : This directory was accidenntally overwritten and therefore deleted as it was originally named 'A04' which is another directory in this repo. This is a re-upload.
