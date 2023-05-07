@@ -8,12 +8,14 @@ Semester:         Spring 2023
 Description:
 The purpose of this program is to demonstrate an auto complete word search. This
 is achieved by reading a character input and comparing it with words stored in a
-file. The words from the file are stored in a singly linked list as a result
-searches are performed linearly.
+file. The words from the file are stored in a trie tree as a result
+searches are performed near instantly specfically in O(k) time.
 
 Usage:
 *        Read in words typed by user and compare whether those words are in the
-dictionary
+dictionary.
+        - Useful for auto suggestion and auto completion
+
 
 Files:
 
@@ -24,6 +26,7 @@ dictionary.txt
 mygetch.hpp
 
  */
+
 
 #include "mygetch.hpp"
 #include "termcolor.hpp"
