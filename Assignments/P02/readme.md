@@ -15,7 +15,7 @@ as a result searches are performed linearly.
 |   4   | [termcolor.hpp](termcolor.hpp)       | change color of text in terminal |
 |   5   | [timer.hpp](timer.hpp)               | timer header file              |
 |   6   | [dictionary.txt](dictionary.txt)     | txt containing all words to be stored           |
-| 7    | <a href= "https://github.com/Logicxrd/3013-Algorithms-Davis/blob/main/Assignments/P02/banner.txt">banner.txt</a>| My banner|
+| 7    | <a href= "https://github.com/Logicxrd/3013-Algorithms-Davis/blob/main/Assignments/P02/banner.txt">banner.txt</a>| banner showing: course code, name and project name|
 | 8   | <a href= "https://github.com/Logicxrd/3013-Algorithms-Davis/blob/main/Assignments/P02/output.pdf">output.pdf</a>            | Pdf containing 4 screenshots of terminal output|
 
 
