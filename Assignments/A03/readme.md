@@ -29,4 +29,4 @@ This software includes a class that generates a circular array-based queue. Ther
   -  C1.Pop();    // remove item from queue
   - cout << C1 << endl; //display updated queue
 
-P.S : This directory was accidenntally overwritten and therefore deleted as it was originally named 'A04' which is another directory in this repo. This is a re-upload.
+P.S : This directory was accidentally overwritten and therefore deleted as it was originally named 'A04' which is another directory in this repo. This is a re-upload.
