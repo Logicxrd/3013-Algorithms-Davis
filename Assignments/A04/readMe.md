@@ -9,5 +9,6 @@ The purpose of this assignment is to present on Boruvka's Algorithm, a greedy al
 | :---: | -------- | -------------------------------- |
 |   1   | <a href= "https://github.com/Logicxrd/3013-Algorithms-Davis/blob/main/Assignments/A04/TDAVIS_3013_Presentation.pptx">TDAVIS_3013_Presentation</a> | Powerpoint slides for presentation |
 |   2   | <a href= "https://github.com/Logicxrd/3013-Algorithms-Davis/blob/main/Assignments/A04/Boruvka's%20algorithm.pdf">Boruvka's Algorithm </a> | Pdf with summary of presentation |
+|   3  | <a href= "https://github.com/Logicxrd/3013-Algorithms-Davis/blob/main/Assignments/A04/banner.txt">banner.txt</a> | My banner |
 
 
