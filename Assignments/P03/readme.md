@@ -14,7 +14,7 @@ file. The words from the file are stored in a trie tree as a result searches are
 |   4   | [termcolor.hpp](termcolor.hpp)       | change color of text in terminal |
 |   5   | [timer.hpp](timer.hpp)               | timer header file              |
 |   6   | [dictionary.txt](dictionary.txt)     | txt file containing all words to be stored           |
-| 7    | <a href= "https://github.com/Logicxrd/3013-Algorithms-Davis/blob/main/Assignments/P03/banner.txt">banner.txt</a>| My banner|
+| 7    | <a href= "https://github.com/Logicxrd/3013-Algorithms-Davis/blob/main/Assignments/P03/banner.txt">banner.txt</a>| banner showing: course code, name and project name|
 | 8   | <a href= "https://github.com/Logicxrd/3013-Algorithms-Davis/blob/main/Assignments/P03/output%20.pdf">output.pdf</a>            | Pdf containing 4 screenshots of terminal output|
 
 
