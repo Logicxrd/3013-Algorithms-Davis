@@ -9,7 +9,7 @@ Repository containing all assignments and programs done in CMPS 3013 Advanced Al
 | :------: | :-----------: | :----------: |
 |  1  | <a href = "https://github.com/Logicxrd/3013-Algorithms-Davis/tree/main/Assignments">Assignments</a>| Directory containing all assignments and programs done throughout this course |
 
-## Contact Information
+## About Me
 
 #### <img style="height:auto; border-radius:50%;" alt="" width="260" height="260" src="https://user-images.githubusercontent.com/108636715/213933685-0716066e-9792-4cc9-ba5e-1d0ae421d366.jpg">
 #### Name: Tairique Davis
