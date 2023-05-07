@@ -24,16 +24,16 @@ this was done to more precisely display the difference in search duration betwee
 
 |   #   | File     | Description                      |
 | :---: | -------- | -------------------------------- |
-|   1   | main.cpp | Main driver of program. |
-|   2   | json.hpp | json library implementation |
-|   3   | linkedList.hpp | Linked List implementation |
-|   4   | Timer.hpp | timer class to time search times |
-|   5   | person_data.json | example json info to read in |
-|   6   | output.txt | example output of program |
-|   7   | AvlTree.hpp | AVL tree implementation |
-|   8   |output_ss.pdf| screenshots of program|
-|   9   |person.hpp| user defined struct of json fields for linked list|
-|  10   | Banner.txt| banner showing: course code, name and project name|
+|   1   | <a href = "https://github.com/Logicxrd/3013-Algorithms-Davis/blob/main/Assignments/P01/main.cpp">main.cpp</a>| Main driver of program. |
+|   2   | <a href = "https://github.com/Logicxrd/3013-Algorithms-Davis/blob/main/Assignments/P01/json.hpp">json.hpp</a> | json library implementation |
+|   3   | <a href = "https://github.com/Logicxrd/3013-Algorithms-Davis/blob/main/Assignments/P01/linkedList.hpp">linkedList.hpp</a> | Linked List implementation |
+|   4   | <a href = "https://github.com/Logicxrd/3013-Algorithms-Davis/blob/main/Assignments/P01/timer.hpp">Timer.hpp</a> | timer class to time search times |
+|   5   | <a href = "https://github.com/Logicxrd/3013-Algorithms-Davis/blob/main/Assignments/P01/person_data.json">person_data.json</a> | example json info to read in |
+|   6   | <a href = "https://github.com/Logicxrd/3013-Algorithms-Davis/blob/main/Assignments/P01/output.txt">output.txt</a> | example output of program |
+|   7   | <a href = "https://github.com/Logicxrd/3013-Algorithms-Davis/blob/main/Assignments/P01/avlTree.hpp">AvlTree.hpp</a> | AVL tree implementation |
+|   8   | <a href = "https://github.com/Logicxrd/3013-Algorithms-Davis/blob/main/Assignments/P01/output_ss.pdf">output_ss.pdf</a>| screenshots of program|
+|   9   | <a href = "https://github.com/Logicxrd/3013-Algorithms-Davis/blob/main/Assignments/P01/person.hpp">person.hpp</a>| user defined struct of json fields for linked list|
+|  10   | <a href = "https://github.com/Logicxrd/3013-Algorithms-Davis/blob/main/Assignments/P01/Banner.txt">Banner.txt</a>| banner showing: course code, name and project name|
 
 
 
