@@ -2,7 +2,7 @@
 
 ## Description
 
-Repo containing all assignments and programs done in CMPS 3013 Advanced Algorithms in Spring 2023 at Midwestern State University
+Repository containing all assignments and programs done in CMPS 3013 Advanced Algorithms in Spring 2023 at Midwestern State University
 
 ## Repo Content
 | # | Folder | Description |
