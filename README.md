@@ -13,7 +13,7 @@ Repository containing all assignments and programs done in CMPS 3013 Advanced Al
 
 #### <img style="height:auto; border-radius:50%;" alt="" width="260" height="260" src="https://user-images.githubusercontent.com/108636715/213933685-0716066e-9792-4cc9-ba5e-1d0ae421d366.jpg">
 #### Name: Tairique Davis
-#### Major: Computer Science (2025)
+#### Major: Computer Science
 #### University Email: tadavis0910@my.msutexas.edu
 #### Business email: tairiquedavis.business@gmail.com
 
