@@ -4,7 +4,7 @@
 
 Repository containing all assignments and programs done in CMPS 3013 Advanced Algorithms in Spring 2023 at Midwestern State University
 
-## Repo Content
+## Repository Content
 | # | Folder | Description |
 | :------: | :-----------: | :----------: |
 |  1  | <a href = "https://github.com/Logicxrd/3013-Algorithms-Davis/tree/main/Assignments">Assignments</a>| Directory containing all assignments and programs done throughout this course |
